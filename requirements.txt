@@ -1,0 +1,10 @@
+numpy
+matplotlib
+pillow
+beautifulsoup4
+openpyxl
+pygame
+pygal
+pygal-maps-world
+ipywidgets
+neotermcolor
