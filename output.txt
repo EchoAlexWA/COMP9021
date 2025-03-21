@@ -123,11 +123,11 @@ Here is the list of points:
 Here they are on the plane:
 8 *           *
 7                   *
-6  
+6
 5                   *
 4   *
-3  
-2  
+3
+2
 1       o
   0 1 2 3 4 5 6 7 8 9
 
@@ -168,7 +168,7 @@ Here they are on the plane:
 5   *       *
 4                 *
 3               *
-2  
+2
 1               o
   0 1 2 3 4 5 6 7 8
 
@@ -232,7 +232,7 @@ Here they are on the plane:
 4                 *
 3     *   *
 2                   *
-1  
+1
 0   o           *
   0 1 2 3 4 5 6 7 8 9
 
@@ -248,7 +248,7 @@ Here is the list of points:
 Here they are on the plane:
 8         *
 7           *     *
-6  
+6
 5 *       *
 4 *       *         *
 3       *   *     *
@@ -268,12 +268,12 @@ Here is the list of points:
 Here they are on the plane:
 9     *     *
 8 *   *   *       *
-7  
+7
 6               * *
 5 *   *     *
-4  
-3  
-2  
+4
+3
+2
 1             *   *
 0   o
   0 1 2 3 4 5 6 7 8
@@ -295,7 +295,7 @@ Here they are on the plane:
 5             *
 4     *
 3                 *
-2  
+2
 1     * *   *
 0 o   *
   0 1 2 3 4 5 6 7 8
@@ -313,9 +313,9 @@ Here they are on the plane:
 9                 *
 8           *
 7             *     *
-6  
+6
 5                   *
-4  
+4
 3             * *
 2   * *     *
 1 * *   *       * *
@@ -336,7 +336,7 @@ Here they are on the plane:
 7               *
 6 *         *
 5         *   *   *
-4  
+4
 3     *
 2           *     *
 1   *               *
@@ -359,7 +359,7 @@ Here they are on the plane:
 6 *     *
 5 *
 4             *
-3  
+3
 2               *   *
 1         *       *
 0   o     *   * *
